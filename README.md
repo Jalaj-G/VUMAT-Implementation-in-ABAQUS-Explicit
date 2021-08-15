@@ -17,7 +17,7 @@ A single element is subjected to shear load resulting in deformation as shown in
 
 Comparison between Inbuilt model with VUMAT result
 
-![Uploading stress_vs_strain.png…](
+![stress_vs_strain](https://user-images.githubusercontent.com/88960574/129487708-187a7b20-ead8-40b4-9f0f-192d7d686e95.png)
 
 # Quarter plate with Hole
 A quarter-plate is subjected to load in x-direction and fixed along y-axis direction. The resulting deformation can be seen in the image below. Sufficient numbers of elements are considered to qualify mesh convergence study.
