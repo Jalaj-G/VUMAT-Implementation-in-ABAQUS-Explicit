@@ -1,5 +1,5 @@
 # VUMAT-Implementation-in-ABAQUS-Explicit
-A finite deformation fortran code is shared in the repository along with files associated with various test cases. Zip files are shared due to some uploading issues to ascertain that all files are available to the user. User requires a Intel fortran compiler & VS code linked with ABAQUS. He can supply the shared fortran code while doing simulations. ALL the required material properties are defined in the Fortran code.
+A finite deformation fortran code is shared in the repository along with files associated with various test cases. Zip files are shared due to some uploading issues to ascertain that all files are available to the user. User requires a Intel fortran compiler & VS code linked with ABAQUS. He can supply the shared fortran code while doing simulations. All the required material properties are defined in the Fortran code.
 Various Standard test cases were considered for validating the code with ABAQUS inbuilt models.
 # Uniaxial Tension
 A single element is subjected to uni-axial load resulting in deformation as shown in the figure below.
